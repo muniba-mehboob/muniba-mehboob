@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Experience-Fintech_%26_Automation-green?style=flat-square" />
 </p>
 
-I'm a Computer Science undergraduate from FAST-NUCES, Karachi[cite: 1], passionate about building software solutions, workflow automations, and data-driven applications. I bridge the gap between technical implementation and real-world impact, with professional experience spanning fintech operations, AI/ML workflows, data analytics, and academic support[cite: 1].
+I'm a Computer Science graduate from FAST-NUCES, Karachi[cite: 1], passionate about building software solutions, workflow automations, and data-driven applications. I bridge the gap between technical implementation and real-world impact, with professional experience spanning fintech operations, AI/ML workflows, data analytics, and academic support[cite: 1].
 
 ---
 
